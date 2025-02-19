@@ -1,0 +1,1 @@
+This is a simple Rock Paper Scissor Game. The user is playing with computer and there are 3 results the User will win, the user lose and the match will be draw. technology used in this is mainly Javascript for the logic handling and for frontend simple HTML and CSS is used 
